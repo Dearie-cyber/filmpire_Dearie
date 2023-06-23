@@ -7,5 +7,5 @@ export default makeStyles(() => ({
   content: {
     flexGrow: '1',
     padding: '2em',
-    };
+  },
 }));
