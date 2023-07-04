@@ -12,7 +12,7 @@ const NavBar = () => {
   const isMobile = useMediaQuery('(max-width:600px)');
   const theme = useTheme();
   const isAuthenticated = true;
-
+ 
   return (
     <>
       <AppBar position="fixed">
